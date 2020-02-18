@@ -1,0 +1,14 @@
+.wrapper {
+  max-width: 1024px;
+  margin: 0 auto;
+  font-family: "Helvetica", "Arial", sans-serif;
+}
+
+.contacts,
+.summary,
+.skills,
+.experience,
+.education,
+.english {
+  margin-top: 40px;
+}
