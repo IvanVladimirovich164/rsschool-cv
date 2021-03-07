@@ -1,2 +1,1 @@
-# rsschool-cv
-[Resume](https://github.com/IvanVladimirovich164/rsschool-cv/blob/gh-pages/cv.md)
+https://IvanVladimirovich164.github.io/rsschool-cv/cv
